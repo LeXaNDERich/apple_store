@@ -1,0 +1,848 @@
+[
+  {
+    "product_id": 1,
+    "product_name": "iPhone 16 Pro",
+    "slug": "iphone-16-pro",
+    "color": "Чёрный титан",
+    "expected_image": "assets/img/products/iphone-16-pro-chernyy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-16-pro-chernyy-titan.webp",
+    "suggested_query": "iPhone 16 Pro Чёрный титан official image"
+  },
+  {
+    "product_id": 1,
+    "product_name": "iPhone 16 Pro",
+    "slug": "iphone-16-pro",
+    "color": "Белый титан",
+    "expected_image": "assets/img/products/iphone-16-pro-belyy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-16-pro-belyy-titan.webp",
+    "suggested_query": "iPhone 16 Pro Белый титан official image"
+  },
+  {
+    "product_id": 1,
+    "product_name": "iPhone 16 Pro",
+    "slug": "iphone-16-pro",
+    "color": "Пустынный титан",
+    "expected_image": "assets/img/products/iphone-16-pro-pustynnyy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-16-pro-pustynnyy-titan.webp",
+    "suggested_query": "iPhone 16 Pro Пустынный титан official image"
+  },
+  {
+    "product_id": 2,
+    "product_name": "iPhone 16 Pro Max",
+    "slug": "iphone-16-pro-max",
+    "color": "Чёрный титан",
+    "expected_image": "assets/img/products/iphone-16-pro-max-chernyy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-16-pro-max-chernyy-titan.webp",
+    "suggested_query": "iPhone 16 Pro Max Чёрный титан official image"
+  },
+  {
+    "product_id": 2,
+    "product_name": "iPhone 16 Pro Max",
+    "slug": "iphone-16-pro-max",
+    "color": "Натуральный титан",
+    "expected_image": "assets/img/products/iphone-16-pro-max-naturalnyy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-16-pro-max-naturalnyy-titan.webp",
+    "suggested_query": "iPhone 16 Pro Max Натуральный титан official image"
+  },
+  {
+    "product_id": 3,
+    "product_name": "iPhone 16",
+    "slug": "iphone-16",
+    "color": "Ультрамарин",
+    "expected_image": "assets/img/products/iphone-16-ultramarin.jpg",
+    "expected_webp": "assets/img/products/iphone-16-ultramarin.webp",
+    "suggested_query": "iPhone 16 Ультрамарин official image"
+  },
+  {
+    "product_id": 3,
+    "product_name": "iPhone 16",
+    "slug": "iphone-16",
+    "color": "Бирюзовый",
+    "expected_image": "assets/img/products/iphone-16-biryuzovyy.jpg",
+    "expected_webp": "assets/img/products/iphone-16-biryuzovyy.webp",
+    "suggested_query": "iPhone 16 Бирюзовый official image"
+  },
+  {
+    "product_id": 3,
+    "product_name": "iPhone 16",
+    "slug": "iphone-16",
+    "color": "Розовый",
+    "expected_image": "assets/img/products/iphone-16-rozovyy.jpg",
+    "expected_webp": "assets/img/products/iphone-16-rozovyy.webp",
+    "suggested_query": "iPhone 16 Розовый official image"
+  },
+  {
+    "product_id": 3,
+    "product_name": "iPhone 16",
+    "slug": "iphone-16",
+    "color": "Чёрный",
+    "expected_image": "assets/img/products/iphone-16-chernyy.jpg",
+    "expected_webp": "assets/img/products/iphone-16-chernyy.webp",
+    "suggested_query": "iPhone 16 Чёрный official image"
+  },
+  {
+    "product_id": 4,
+    "product_name": "iPhone 16 Plus",
+    "slug": "iphone-16-plus",
+    "color": "Белый",
+    "expected_image": "assets/img/products/iphone-16-plus-belyy.jpg",
+    "expected_webp": "assets/img/products/iphone-16-plus-belyy.webp",
+    "suggested_query": "iPhone 16 Plus Белый official image"
+  },
+  {
+    "product_id": 4,
+    "product_name": "iPhone 16 Plus",
+    "slug": "iphone-16-plus",
+    "color": "Чёрный",
+    "expected_image": "assets/img/products/iphone-16-plus-chernyy.jpg",
+    "expected_webp": "assets/img/products/iphone-16-plus-chernyy.webp",
+    "suggested_query": "iPhone 16 Plus Чёрный official image"
+  },
+  {
+    "product_id": 5,
+    "product_name": "iPhone 15",
+    "slug": "iphone-15",
+    "color": "Голубой",
+    "expected_image": "assets/img/products/iphone-15-goluboy.jpg",
+    "expected_webp": "assets/img/products/iphone-15-goluboy.webp",
+    "suggested_query": "iPhone 15 Голубой official image"
+  },
+  {
+    "product_id": 5,
+    "product_name": "iPhone 15",
+    "slug": "iphone-15",
+    "color": "Чёрный",
+    "expected_image": "assets/img/products/iphone-15-chernyy.jpg",
+    "expected_webp": "assets/img/products/iphone-15-chernyy.webp",
+    "suggested_query": "iPhone 15 Чёрный official image"
+  },
+  {
+    "product_id": 5,
+    "product_name": "iPhone 15",
+    "slug": "iphone-15",
+    "color": "Розовый",
+    "expected_image": "assets/img/products/iphone-15-rozovyy.jpg",
+    "expected_webp": "assets/img/products/iphone-15-rozovyy.webp",
+    "suggested_query": "iPhone 15 Розовый official image"
+  },
+  {
+    "product_id": 6,
+    "product_name": "MacBook Air 13\" M3",
+    "slug": "macbook-air-13-m3",
+    "color": "Тёмная ночь",
+    "expected_image": "assets/img/products/macbook-air-13-m3-temnaya-noch.jpg",
+    "expected_webp": "assets/img/products/macbook-air-13-m3-temnaya-noch.webp",
+    "suggested_query": "MacBook Air 13\" M3 Тёмная ночь official image"
+  },
+  {
+    "product_id": 6,
+    "product_name": "MacBook Air 13\" M3",
+    "slug": "macbook-air-13-m3",
+    "color": "Сияющая звезда",
+    "expected_image": "assets/img/products/macbook-air-13-m3-siyayuschaya-zvezda.jpg",
+    "expected_webp": "assets/img/products/macbook-air-13-m3-siyayuschaya-zvezda.webp",
+    "suggested_query": "MacBook Air 13\" M3 Сияющая звезда official image"
+  },
+  {
+    "product_id": 6,
+    "product_name": "MacBook Air 13\" M3",
+    "slug": "macbook-air-13-m3",
+    "color": "Синий",
+    "expected_image": "assets/img/products/macbook-air-13-m3-siniy.jpg",
+    "expected_webp": "assets/img/products/macbook-air-13-m3-siniy.webp",
+    "suggested_query": "MacBook Air 13\" M3 Синий official image"
+  },
+  {
+    "product_id": 7,
+    "product_name": "MacBook Air 15\" M3",
+    "slug": "macbook-air-15-m3",
+    "color": "Сияющая звезда",
+    "expected_image": "assets/img/products/macbook-air-15-m3-siyayuschaya-zvezda.jpg",
+    "expected_webp": "assets/img/products/macbook-air-15-m3-siyayuschaya-zvezda.webp",
+    "suggested_query": "MacBook Air 15\" M3 Сияющая звезда official image"
+  },
+  {
+    "product_id": 7,
+    "product_name": "MacBook Air 15\" M3",
+    "slug": "macbook-air-15-m3",
+    "color": "Тёмная ночь",
+    "expected_image": "assets/img/products/macbook-air-15-m3-temnaya-noch.jpg",
+    "expected_webp": "assets/img/products/macbook-air-15-m3-temnaya-noch.webp",
+    "suggested_query": "MacBook Air 15\" M3 Тёмная ночь official image"
+  },
+  {
+    "product_id": 8,
+    "product_name": "MacBook Pro 14\" M4",
+    "slug": "macbook-pro-14-m4",
+    "color": "Space Black",
+    "expected_image": "assets/img/products/macbook-pro-14-m4-space-black.jpg",
+    "expected_webp": "assets/img/products/macbook-pro-14-m4-space-black.webp",
+    "suggested_query": "MacBook Pro 14\" M4 Space Black official image"
+  },
+  {
+    "product_id": 8,
+    "product_name": "MacBook Pro 14\" M4",
+    "slug": "macbook-pro-14-m4",
+    "color": "Silver",
+    "expected_image": "assets/img/products/macbook-pro-14-m4-silver.jpg",
+    "expected_webp": "assets/img/products/macbook-pro-14-m4-silver.webp",
+    "suggested_query": "MacBook Pro 14\" M4 Silver official image"
+  },
+  {
+    "product_id": 9,
+    "product_name": "MacBook Pro 16\" M4 Pro",
+    "slug": "macbook-pro-16-m4-pro",
+    "color": "Space Black",
+    "expected_image": "assets/img/products/macbook-pro-16-m4-pro-space-black.jpg",
+    "expected_webp": "assets/img/products/macbook-pro-16-m4-pro-space-black.webp",
+    "suggested_query": "MacBook Pro 16\" M4 Pro Space Black official image"
+  },
+  {
+    "product_id": 10,
+    "product_name": "iMac 24\" M4",
+    "slug": "imac-24-m4",
+    "color": "Синий",
+    "expected_image": "assets/img/products/imac-24-m4-siniy.jpg",
+    "expected_webp": "assets/img/products/imac-24-m4-siniy.webp",
+    "suggested_query": "iMac 24\" M4 Синий official image"
+  },
+  {
+    "product_id": 10,
+    "product_name": "iMac 24\" M4",
+    "slug": "imac-24-m4",
+    "color": "Зелёный",
+    "expected_image": "assets/img/products/imac-24-m4-zelenyy.jpg",
+    "expected_webp": "assets/img/products/imac-24-m4-zelenyy.webp",
+    "suggested_query": "iMac 24\" M4 Зелёный official image"
+  },
+  {
+    "product_id": 10,
+    "product_name": "iMac 24\" M4",
+    "slug": "imac-24-m4",
+    "color": "Розовый",
+    "expected_image": "assets/img/products/imac-24-m4-rozovyy.jpg",
+    "expected_webp": "assets/img/products/imac-24-m4-rozovyy.webp",
+    "suggested_query": "iMac 24\" M4 Розовый official image"
+  },
+  {
+    "product_id": 10,
+    "product_name": "iMac 24\" M4",
+    "slug": "imac-24-m4",
+    "color": "Серебристый",
+    "expected_image": "assets/img/products/imac-24-m4-serebristyy.jpg",
+    "expected_webp": "assets/img/products/imac-24-m4-serebristyy.webp",
+    "suggested_query": "iMac 24\" M4 Серебристый official image"
+  },
+  {
+    "product_id": 11,
+    "product_name": "Mac mini M4",
+    "slug": "mac-mini-m4",
+    "color": "Silver",
+    "expected_image": "assets/img/products/mac-mini-m4-silver.jpg",
+    "expected_webp": "assets/img/products/mac-mini-m4-silver.webp",
+    "suggested_query": "Mac mini M4 Silver official image"
+  },
+  {
+    "product_id": 12,
+    "product_name": "iPad Pro 11\" M4",
+    "slug": "ipad-pro-11-m4",
+    "color": "Space Black",
+    "expected_image": "assets/img/products/ipad-pro-11-m4-space-black.jpg",
+    "expected_webp": "assets/img/products/ipad-pro-11-m4-space-black.webp",
+    "suggested_query": "iPad Pro 11\" M4 Space Black official image"
+  },
+  {
+    "product_id": 12,
+    "product_name": "iPad Pro 11\" M4",
+    "slug": "ipad-pro-11-m4",
+    "color": "Silver",
+    "expected_image": "assets/img/products/ipad-pro-11-m4-silver.jpg",
+    "expected_webp": "assets/img/products/ipad-pro-11-m4-silver.webp",
+    "suggested_query": "iPad Pro 11\" M4 Silver official image"
+  },
+  {
+    "product_id": 13,
+    "product_name": "iPad Pro 13\" M4",
+    "slug": "ipad-pro-13-m4",
+    "color": "Space Black",
+    "expected_image": "assets/img/products/ipad-pro-13-m4-space-black.jpg",
+    "expected_webp": "assets/img/products/ipad-pro-13-m4-space-black.webp",
+    "suggested_query": "iPad Pro 13\" M4 Space Black official image"
+  },
+  {
+    "product_id": 14,
+    "product_name": "iPad Air 11\" M2",
+    "slug": "ipad-air-11-m2",
+    "color": "Синий",
+    "expected_image": "assets/img/products/ipad-air-11-m2-siniy.jpg",
+    "expected_webp": "assets/img/products/ipad-air-11-m2-siniy.webp",
+    "suggested_query": "iPad Air 11\" M2 Синий official image"
+  },
+  {
+    "product_id": 14,
+    "product_name": "iPad Air 11\" M2",
+    "slug": "ipad-air-11-m2",
+    "color": "Фиолетовый",
+    "expected_image": "assets/img/products/ipad-air-11-m2-fioletovyy.jpg",
+    "expected_webp": "assets/img/products/ipad-air-11-m2-fioletovyy.webp",
+    "suggested_query": "iPad Air 11\" M2 Фиолетовый official image"
+  },
+  {
+    "product_id": 14,
+    "product_name": "iPad Air 11\" M2",
+    "slug": "ipad-air-11-m2",
+    "color": "Сияющая звезда",
+    "expected_image": "assets/img/products/ipad-air-11-m2-siyayuschaya-zvezda.jpg",
+    "expected_webp": "assets/img/products/ipad-air-11-m2-siyayuschaya-zvezda.webp",
+    "suggested_query": "iPad Air 11\" M2 Сияющая звезда official image"
+  },
+  {
+    "product_id": 15,
+    "product_name": "iPad 10,9\"",
+    "slug": "ipad-10-9-",
+    "color": "Синий",
+    "expected_image": "assets/img/products/ipad-10-9--siniy.jpg",
+    "expected_webp": "assets/img/products/ipad-10-9--siniy.webp",
+    "suggested_query": "iPad 10,9\" Синий official image"
+  },
+  {
+    "product_id": 15,
+    "product_name": "iPad 10,9\"",
+    "slug": "ipad-10-9-",
+    "color": "Розовый",
+    "expected_image": "assets/img/products/ipad-10-9--rozovyy.jpg",
+    "expected_webp": "assets/img/products/ipad-10-9--rozovyy.webp",
+    "suggested_query": "iPad 10,9\" Розовый official image"
+  },
+  {
+    "product_id": 15,
+    "product_name": "iPad 10,9\"",
+    "slug": "ipad-10-9-",
+    "color": "Серебристый",
+    "expected_image": "assets/img/products/ipad-10-9--serebristyy.jpg",
+    "expected_webp": "assets/img/products/ipad-10-9--serebristyy.webp",
+    "suggested_query": "iPad 10,9\" Серебристый official image"
+  },
+  {
+    "product_id": 16,
+    "product_name": "iPad mini 8,3\"",
+    "slug": "ipad-mini-8-3-",
+    "color": "Фиолетовый",
+    "expected_image": "assets/img/products/ipad-mini-8-3--fioletovyy.jpg",
+    "expected_webp": "assets/img/products/ipad-mini-8-3--fioletovyy.webp",
+    "suggested_query": "iPad mini 8,3\" Фиолетовый official image"
+  },
+  {
+    "product_id": 16,
+    "product_name": "iPad mini 8,3\"",
+    "slug": "ipad-mini-8-3-",
+    "color": "Сияющая звезда",
+    "expected_image": "assets/img/products/ipad-mini-8-3--siyayuschaya-zvezda.jpg",
+    "expected_webp": "assets/img/products/ipad-mini-8-3--siyayuschaya-zvezda.webp",
+    "suggested_query": "iPad mini 8,3\" Сияющая звезда official image"
+  },
+  {
+    "product_id": 17,
+    "product_name": "Apple Watch Ultra 2",
+    "slug": "apple-watch-ultra-2",
+    "color": "Натуральный",
+    "expected_image": "assets/img/products/apple-watch-ultra-2-naturalnyy.jpg",
+    "expected_webp": "assets/img/products/apple-watch-ultra-2-naturalnyy.webp",
+    "suggested_query": "Apple Watch Ultra 2 Натуральный official image"
+  },
+  {
+    "product_id": 17,
+    "product_name": "Apple Watch Ultra 2",
+    "slug": "apple-watch-ultra-2",
+    "color": "Чёрный",
+    "expected_image": "assets/img/products/apple-watch-ultra-2-chernyy.jpg",
+    "expected_webp": "assets/img/products/apple-watch-ultra-2-chernyy.webp",
+    "suggested_query": "Apple Watch Ultra 2 Чёрный official image"
+  },
+  {
+    "product_id": 18,
+    "product_name": "Apple Watch Series 10",
+    "slug": "apple-watch-series-10",
+    "color": "Jet Black",
+    "expected_image": "assets/img/products/apple-watch-series-10-jet-black.jpg",
+    "expected_webp": "assets/img/products/apple-watch-series-10-jet-black.webp",
+    "suggested_query": "Apple Watch Series 10 Jet Black official image"
+  },
+  {
+    "product_id": 18,
+    "product_name": "Apple Watch Series 10",
+    "slug": "apple-watch-series-10",
+    "color": "Rose Gold",
+    "expected_image": "assets/img/products/apple-watch-series-10-rose-gold.jpg",
+    "expected_webp": "assets/img/products/apple-watch-series-10-rose-gold.webp",
+    "suggested_query": "Apple Watch Series 10 Rose Gold official image"
+  },
+  {
+    "product_id": 18,
+    "product_name": "Apple Watch Series 10",
+    "slug": "apple-watch-series-10",
+    "color": "Silver",
+    "expected_image": "assets/img/products/apple-watch-series-10-silver.jpg",
+    "expected_webp": "assets/img/products/apple-watch-series-10-silver.webp",
+    "suggested_query": "Apple Watch Series 10 Silver official image"
+  },
+  {
+    "product_id": 19,
+    "product_name": "Apple Watch SE",
+    "slug": "apple-watch-se",
+    "color": "Midnight",
+    "expected_image": "assets/img/products/apple-watch-se-midnight.jpg",
+    "expected_webp": "assets/img/products/apple-watch-se-midnight.webp",
+    "suggested_query": "Apple Watch SE Midnight official image"
+  },
+  {
+    "product_id": 19,
+    "product_name": "Apple Watch SE",
+    "slug": "apple-watch-se",
+    "color": "Starlight",
+    "expected_image": "assets/img/products/apple-watch-se-starlight.jpg",
+    "expected_webp": "assets/img/products/apple-watch-se-starlight.webp",
+    "suggested_query": "Apple Watch SE Starlight official image"
+  },
+  {
+    "product_id": 20,
+    "product_name": "AirPods Pro 2",
+    "slug": "airpods-pro-2",
+    "color": "Белый",
+    "expected_image": "assets/img/products/airpods-pro-2-belyy.jpg",
+    "expected_webp": "assets/img/products/airpods-pro-2-belyy.webp",
+    "suggested_query": "AirPods Pro 2 Белый official image"
+  },
+  {
+    "product_id": 21,
+    "product_name": "AirPods 4",
+    "slug": "airpods-4",
+    "color": "Белый",
+    "expected_image": "assets/img/products/airpods-4-belyy.jpg",
+    "expected_webp": "assets/img/products/airpods-4-belyy.webp",
+    "suggested_query": "AirPods 4 Белый official image"
+  },
+  {
+    "product_id": 22,
+    "product_name": "AirPods Max",
+    "slug": "airpods-max",
+    "color": "Midnight",
+    "expected_image": "assets/img/products/airpods-max-midnight.jpg",
+    "expected_webp": "assets/img/products/airpods-max-midnight.webp",
+    "suggested_query": "AirPods Max Midnight official image"
+  },
+  {
+    "product_id": 22,
+    "product_name": "AirPods Max",
+    "slug": "airpods-max",
+    "color": "Blue",
+    "expected_image": "assets/img/products/airpods-max-blue.jpg",
+    "expected_webp": "assets/img/products/airpods-max-blue.webp",
+    "suggested_query": "AirPods Max Blue official image"
+  },
+  {
+    "product_id": 22,
+    "product_name": "AirPods Max",
+    "slug": "airpods-max",
+    "color": "Orange",
+    "expected_image": "assets/img/products/airpods-max-orange.jpg",
+    "expected_webp": "assets/img/products/airpods-max-orange.webp",
+    "suggested_query": "AirPods Max Orange official image"
+  },
+  {
+    "product_id": 23,
+    "product_name": "MagSafe Charger",
+    "slug": "magsafe-charger",
+    "color": "Белый",
+    "expected_image": "assets/img/products/magsafe-charger-belyy.jpg",
+    "expected_webp": "assets/img/products/magsafe-charger-belyy.webp",
+    "suggested_query": "MagSafe Charger Белый official image"
+  },
+  {
+    "product_id": 24,
+    "product_name": "Magic Keyboard для iPad Pro",
+    "slug": "magic-keyboard-ipad-pro",
+    "color": "Чёрный",
+    "expected_image": "assets/img/products/magic-keyboard-ipad-pro-chernyy.jpg",
+    "expected_webp": "assets/img/products/magic-keyboard-ipad-pro-chernyy.webp",
+    "suggested_query": "Magic Keyboard для iPad Pro Чёрный official image"
+  },
+  {
+    "product_id": 24,
+    "product_name": "Magic Keyboard для iPad Pro",
+    "slug": "magic-keyboard-ipad-pro",
+    "color": "Белый",
+    "expected_image": "assets/img/products/magic-keyboard-ipad-pro-belyy.jpg",
+    "expected_webp": "assets/img/products/magic-keyboard-ipad-pro-belyy.webp",
+    "suggested_query": "Magic Keyboard для iPad Pro Белый official image"
+  },
+  {
+    "product_id": 25,
+    "product_name": "Apple Pencil Pro",
+    "slug": "apple-pencil-pro",
+    "color": "Белый",
+    "expected_image": "assets/img/products/apple-pencil-pro-belyy.jpg",
+    "expected_webp": "assets/img/products/apple-pencil-pro-belyy.webp",
+    "suggested_query": "Apple Pencil Pro Белый official image"
+  },
+  {
+    "product_id": 26,
+    "product_name": "Studio Display",
+    "slug": "studio-display",
+    "color": "Silver",
+    "expected_image": "assets/img/products/studio-display-silver.jpg",
+    "expected_webp": "assets/img/products/studio-display-silver.webp",
+    "suggested_query": "Studio Display Silver official image"
+  },
+  {
+    "product_id": 27,
+    "product_name": "iPhone 15 Plus",
+    "slug": "iphone-15-plus",
+    "color": "Голубой",
+    "expected_image": "assets/img/products/iphone-15-plus-goluboy.jpg",
+    "expected_webp": "assets/img/products/iphone-15-plus-goluboy.webp",
+    "suggested_query": "iPhone 15 Plus Голубой official image"
+  },
+  {
+    "product_id": 27,
+    "product_name": "iPhone 15 Plus",
+    "slug": "iphone-15-plus",
+    "color": "Чёрный",
+    "expected_image": "assets/img/products/iphone-15-plus-chernyy.jpg",
+    "expected_webp": "assets/img/products/iphone-15-plus-chernyy.webp",
+    "suggested_query": "iPhone 15 Plus Чёрный official image"
+  },
+  {
+    "product_id": 28,
+    "product_name": "iPhone 15 Pro",
+    "slug": "iphone-15-pro",
+    "color": "Натуральный титан",
+    "expected_image": "assets/img/products/iphone-15-pro-naturalnyy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-15-pro-naturalnyy-titan.webp",
+    "suggested_query": "iPhone 15 Pro Натуральный титан official image"
+  },
+  {
+    "product_id": 28,
+    "product_name": "iPhone 15 Pro",
+    "slug": "iphone-15-pro",
+    "color": "Синий титан",
+    "expected_image": "assets/img/products/iphone-15-pro-siniy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-15-pro-siniy-titan.webp",
+    "suggested_query": "iPhone 15 Pro Синий титан official image"
+  },
+  {
+    "product_id": 29,
+    "product_name": "iPhone 15 Pro Max",
+    "slug": "iphone-15-pro-max",
+    "color": "Чёрный титан",
+    "expected_image": "assets/img/products/iphone-15-pro-max-chernyy-titan.jpg",
+    "expected_webp": "assets/img/products/iphone-15-pro-max-chernyy-titan.webp",
+    "suggested_query": "iPhone 15 Pro Max Чёрный титан official image"
+  },
+  {
+    "product_id": 30,
+    "product_name": "iPhone 14",
+    "slug": "iphone-14",
+    "color": "Midnight",
+    "expected_image": "assets/img/products/iphone-14-midnight.jpg",
+    "expected_webp": "assets/img/products/iphone-14-midnight.webp",
+    "suggested_query": "iPhone 14 Midnight official image"
+  },
+  {
+    "product_id": 30,
+    "product_name": "iPhone 14",
+    "slug": "iphone-14",
+    "color": "Blue",
+    "expected_image": "assets/img/products/iphone-14-blue.jpg",
+    "expected_webp": "assets/img/products/iphone-14-blue.webp",
+    "suggested_query": "iPhone 14 Blue official image"
+  },
+  {
+    "product_id": 31,
+    "product_name": "iPhone 14 Plus",
+    "slug": "iphone-14-plus",
+    "color": "Purple",
+    "expected_image": "assets/img/products/iphone-14-plus-purple.jpg",
+    "expected_webp": "assets/img/products/iphone-14-plus-purple.webp",
+    "suggested_query": "iPhone 14 Plus Purple official image"
+  },
+  {
+    "product_id": 32,
+    "product_name": "iPhone 14 Pro",
+    "slug": "iphone-14-pro",
+    "color": "Space Black",
+    "expected_image": "assets/img/products/iphone-14-pro-space-black.jpg",
+    "expected_webp": "assets/img/products/iphone-14-pro-space-black.webp",
+    "suggested_query": "iPhone 14 Pro Space Black official image"
+  },
+  {
+    "product_id": 33,
+    "product_name": "iPhone SE 3",
+    "slug": "iphone-se-3",
+    "color": "Midnight",
+    "expected_image": "assets/img/products/iphone-se-3-midnight.jpg",
+    "expected_webp": "assets/img/products/iphone-se-3-midnight.webp",
+    "suggested_query": "iPhone SE 3 Midnight official image"
+  },
+  {
+    "product_id": 33,
+    "product_name": "iPhone SE 3",
+    "slug": "iphone-se-3",
+    "color": "Starlight",
+    "expected_image": "assets/img/products/iphone-se-3-starlight.jpg",
+    "expected_webp": "assets/img/products/iphone-se-3-starlight.webp",
+    "suggested_query": "iPhone SE 3 Starlight official image"
+  },
+  {
+    "product_id": 34,
+    "product_name": "iPhone 13",
+    "slug": "iphone-13",
+    "color": "Green",
+    "expected_image": "assets/img/products/iphone-13-green.jpg",
+    "expected_webp": "assets/img/products/iphone-13-green.webp",
+    "suggested_query": "iPhone 13 Green official image"
+  },
+  {
+    "product_id": 35,
+    "product_name": "iPhone 13 mini",
+    "slug": "iphone-13-mini",
+    "color": "Pink",
+    "expected_image": "assets/img/products/iphone-13-mini-pink.jpg",
+    "expected_webp": "assets/img/products/iphone-13-mini-pink.webp",
+    "suggested_query": "iPhone 13 mini Pink official image"
+  },
+  {
+    "product_id": 36,
+    "product_name": "iPhone 12",
+    "slug": "iphone-12",
+    "color": "Blue",
+    "expected_image": "assets/img/products/iphone-12-blue.jpg",
+    "expected_webp": "assets/img/products/iphone-12-blue.webp",
+    "suggested_query": "iPhone 12 Blue official image"
+  },
+  {
+    "product_id": 37,
+    "product_name": "MacBook Air 13 M2",
+    "slug": "macbook-air-13-m2",
+    "color": "Midnight",
+    "expected_image": "assets/img/products/macbook-air-13-m2-midnight.jpg",
+    "expected_webp": "assets/img/products/macbook-air-13-m2-midnight.webp",
+    "suggested_query": "MacBook Air 13 M2 Midnight official image"
+  },
+  {
+    "product_id": 38,
+    "product_name": "MacBook Air 15 M2",
+    "slug": "macbook-air-15-m2",
+    "color": "Starlight",
+    "expected_image": "assets/img/products/macbook-air-15-m2-starlight.jpg",
+    "expected_webp": "assets/img/products/macbook-air-15-m2-starlight.webp",
+    "suggested_query": "MacBook Air 15 M2 Starlight official image"
+  },
+  {
+    "product_id": 39,
+    "product_name": "MacBook Pro 14 M3",
+    "slug": "macbook-pro-14-m3",
+    "color": "Space Gray",
+    "expected_image": "assets/img/products/macbook-pro-14-m3-space-gray.jpg",
+    "expected_webp": "assets/img/products/macbook-pro-14-m3-space-gray.webp",
+    "suggested_query": "MacBook Pro 14 M3 Space Gray official image"
+  },
+  {
+    "product_id": 40,
+    "product_name": "MacBook Pro 16 M3 Pro",
+    "slug": "macbook-pro-16-m3-pro",
+    "color": "Space Black",
+    "expected_image": "assets/img/products/macbook-pro-16-m3-pro-space-black.jpg",
+    "expected_webp": "assets/img/products/macbook-pro-16-m3-pro-space-black.webp",
+    "suggested_query": "MacBook Pro 16 M3 Pro Space Black official image"
+  },
+  {
+    "product_id": 41,
+    "product_name": "Mac mini M2",
+    "slug": "mac-mini-m2",
+    "color": "Silver",
+    "expected_image": "assets/img/products/mac-mini-m2-silver.jpg",
+    "expected_webp": "assets/img/products/mac-mini-m2-silver.webp",
+    "suggested_query": "Mac mini M2 Silver official image"
+  },
+  {
+    "product_id": 42,
+    "product_name": "Mac Studio M2 Max",
+    "slug": "mac-studio-m2-max",
+    "color": "Silver",
+    "expected_image": "assets/img/products/mac-studio-m2-max-silver.jpg",
+    "expected_webp": "assets/img/products/mac-studio-m2-max-silver.webp",
+    "suggested_query": "Mac Studio M2 Max Silver official image"
+  },
+  {
+    "product_id": 43,
+    "product_name": "iMac 24 M3",
+    "slug": "imac-24-m3",
+    "color": "Green",
+    "expected_image": "assets/img/products/imac-24-m3-green.jpg",
+    "expected_webp": "assets/img/products/imac-24-m3-green.webp",
+    "suggested_query": "iMac 24 M3 Green official image"
+  },
+  {
+    "product_id": 44,
+    "product_name": "MacBook Pro 13 M2",
+    "slug": "macbook-pro-13-m2",
+    "color": "Space Gray",
+    "expected_image": "assets/img/products/macbook-pro-13-m2-space-gray.jpg",
+    "expected_webp": "assets/img/products/macbook-pro-13-m2-space-gray.webp",
+    "suggested_query": "MacBook Pro 13 M2 Space Gray official image"
+  },
+  {
+    "product_id": 45,
+    "product_name": "iPad Air 13 M2",
+    "slug": "ipad-air-13-m2",
+    "color": "Blue",
+    "expected_image": "assets/img/products/ipad-air-13-m2-blue.jpg",
+    "expected_webp": "assets/img/products/ipad-air-13-m2-blue.webp",
+    "suggested_query": "iPad Air 13 M2 Blue official image"
+  },
+  {
+    "product_id": 46,
+    "product_name": "iPad Pro 12.9 M2",
+    "slug": "ipad-pro-12-9-m2",
+    "color": "Space Gray",
+    "expected_image": "assets/img/products/ipad-pro-12-9-m2-space-gray.jpg",
+    "expected_webp": "assets/img/products/ipad-pro-12-9-m2-space-gray.webp",
+    "suggested_query": "iPad Pro 12.9 M2 Space Gray official image"
+  },
+  {
+    "product_id": 47,
+    "product_name": "iPad 9th Gen",
+    "slug": "ipad-9th-gen",
+    "color": "Silver",
+    "expected_image": "assets/img/products/ipad-9th-gen-silver.jpg",
+    "expected_webp": "assets/img/products/ipad-9th-gen-silver.webp",
+    "suggested_query": "iPad 9th Gen Silver official image"
+  },
+  {
+    "product_id": 48,
+    "product_name": "iPad mini 6",
+    "slug": "ipad-mini-6",
+    "color": "Purple",
+    "expected_image": "assets/img/products/ipad-mini-6-purple.jpg",
+    "expected_webp": "assets/img/products/ipad-mini-6-purple.webp",
+    "suggested_query": "iPad mini 6 Purple official image"
+  },
+  {
+    "product_id": 49,
+    "product_name": "Apple Watch Series 9",
+    "slug": "apple-watch-series-9",
+    "color": "Midnight",
+    "expected_image": "assets/img/products/apple-watch-series-9-midnight.jpg",
+    "expected_webp": "assets/img/products/apple-watch-series-9-midnight.webp",
+    "suggested_query": "Apple Watch Series 9 Midnight official image"
+  },
+  {
+    "product_id": 50,
+    "product_name": "Apple Watch Ultra",
+    "slug": "apple-watch-ultra",
+    "color": "Titanium",
+    "expected_image": "assets/img/products/apple-watch-ultra-titanium.jpg",
+    "expected_webp": "assets/img/products/apple-watch-ultra-titanium.webp",
+    "suggested_query": "Apple Watch Ultra Titanium official image"
+  },
+  {
+    "product_id": 51,
+    "product_name": "Apple Watch Series 8",
+    "slug": "apple-watch-series-8",
+    "color": "Starlight",
+    "expected_image": "assets/img/products/apple-watch-series-8-starlight.jpg",
+    "expected_webp": "assets/img/products/apple-watch-series-8-starlight.webp",
+    "suggested_query": "Apple Watch Series 8 Starlight official image"
+  },
+  {
+    "product_id": 52,
+    "product_name": "AirPods 3",
+    "slug": "airpods-3",
+    "color": "Белый",
+    "expected_image": "assets/img/products/airpods-3-belyy.jpg",
+    "expected_webp": "assets/img/products/airpods-3-belyy.webp",
+    "suggested_query": "AirPods 3 Белый official image"
+  },
+  {
+    "product_id": 53,
+    "product_name": "AirPods 2",
+    "slug": "airpods-2",
+    "color": "Белый",
+    "expected_image": "assets/img/products/airpods-2-belyy.jpg",
+    "expected_webp": "assets/img/products/airpods-2-belyy.webp",
+    "suggested_query": "AirPods 2 Белый official image"
+  },
+  {
+    "product_id": 54,
+    "product_name": "Beats Studio Pro",
+    "slug": "beats-studio-pro",
+    "color": "Black",
+    "expected_image": "assets/img/products/beats-studio-pro-black.jpg",
+    "expected_webp": "assets/img/products/beats-studio-pro-black.webp",
+    "suggested_query": "Beats Studio Pro Black official image"
+  },
+  {
+    "product_id": 55,
+    "product_name": "MagSafe Battery Pack",
+    "slug": "magsafe-battery-pack",
+    "color": "Белый",
+    "expected_image": "assets/img/products/magsafe-battery-pack-belyy.jpg",
+    "expected_webp": "assets/img/products/magsafe-battery-pack-belyy.webp",
+    "suggested_query": "MagSafe Battery Pack Белый official image"
+  },
+  {
+    "product_id": 56,
+    "product_name": "Magic Mouse",
+    "slug": "magic-mouse",
+    "color": "Белый",
+    "expected_image": "assets/img/products/magic-mouse-belyy.jpg",
+    "expected_webp": "assets/img/products/magic-mouse-belyy.webp",
+    "suggested_query": "Magic Mouse Белый official image"
+  },
+  {
+    "product_id": 57,
+    "product_name": "Magic Trackpad",
+    "slug": "magic-trackpad",
+    "color": "Белый",
+    "expected_image": "assets/img/products/magic-trackpad-belyy.jpg",
+    "expected_webp": "assets/img/products/magic-trackpad-belyy.webp",
+    "suggested_query": "Magic Trackpad Белый official image"
+  },
+  {
+    "product_id": 58,
+    "product_name": "USB-C Power Adapter 20W",
+    "slug": "usb-c-power-adapter-20w",
+    "color": "Белый",
+    "expected_image": "assets/img/products/usb-c-power-adapter-20w-belyy.jpg",
+    "expected_webp": "assets/img/products/usb-c-power-adapter-20w-belyy.webp",
+    "suggested_query": "USB-C Power Adapter 20W Белый official image"
+  },
+  {
+    "product_id": 59,
+    "product_name": "Thunderbolt 4 Pro Cable",
+    "slug": "thunderbolt-4-pro-cable",
+    "color": "Чёрный",
+    "expected_image": "assets/img/products/thunderbolt-4-pro-cable-chernyy.jpg",
+    "expected_webp": "assets/img/products/thunderbolt-4-pro-cable-chernyy.webp",
+    "suggested_query": "Thunderbolt 4 Pro Cable Чёрный official image"
+  },
+  {
+    "product_id": 60,
+    "product_name": "iPhone 16 Silicone Case",
+    "slug": "iphone-16-silicone-case",
+    "color": "Ultramarine",
+    "expected_image": "assets/img/products/iphone-16-silicone-case-ultramarine.jpg",
+    "expected_webp": "assets/img/products/iphone-16-silicone-case-ultramarine.webp",
+    "suggested_query": "iPhone 16 Silicone Case Ultramarine official image"
+  },
+  {
+    "product_id": 60,
+    "product_name": "iPhone 16 Silicone Case",
+    "slug": "iphone-16-silicone-case",
+    "color": "Black",
+    "expected_image": "assets/img/products/iphone-16-silicone-case-black.jpg",
+    "expected_webp": "assets/img/products/iphone-16-silicone-case-black.webp",
+    "suggested_query": "iPhone 16 Silicone Case Black official image"
+  }
+]

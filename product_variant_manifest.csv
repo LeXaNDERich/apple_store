@@ -1,0 +1,95 @@
+product_id,product_name,slug,color,expected_image,expected_webp,suggested_query
+1,iPhone 16 Pro,iphone-16-pro,Чёрный титан,assets/img/products/iphone-16-pro-chernyy-titan.jpg,assets/img/products/iphone-16-pro-chernyy-titan.webp,iPhone 16 Pro Чёрный титан official image
+1,iPhone 16 Pro,iphone-16-pro,Белый титан,assets/img/products/iphone-16-pro-belyy-titan.jpg,assets/img/products/iphone-16-pro-belyy-titan.webp,iPhone 16 Pro Белый титан official image
+1,iPhone 16 Pro,iphone-16-pro,Пустынный титан,assets/img/products/iphone-16-pro-pustynnyy-titan.jpg,assets/img/products/iphone-16-pro-pustynnyy-titan.webp,iPhone 16 Pro Пустынный титан official image
+2,iPhone 16 Pro Max,iphone-16-pro-max,Чёрный титан,assets/img/products/iphone-16-pro-max-chernyy-titan.jpg,assets/img/products/iphone-16-pro-max-chernyy-titan.webp,iPhone 16 Pro Max Чёрный титан official image
+2,iPhone 16 Pro Max,iphone-16-pro-max,Натуральный титан,assets/img/products/iphone-16-pro-max-naturalnyy-titan.jpg,assets/img/products/iphone-16-pro-max-naturalnyy-titan.webp,iPhone 16 Pro Max Натуральный титан official image
+3,iPhone 16,iphone-16,Ультрамарин,assets/img/products/iphone-16-ultramarin.jpg,assets/img/products/iphone-16-ultramarin.webp,iPhone 16 Ультрамарин official image
+3,iPhone 16,iphone-16,Бирюзовый,assets/img/products/iphone-16-biryuzovyy.jpg,assets/img/products/iphone-16-biryuzovyy.webp,iPhone 16 Бирюзовый official image
+3,iPhone 16,iphone-16,Розовый,assets/img/products/iphone-16-rozovyy.jpg,assets/img/products/iphone-16-rozovyy.webp,iPhone 16 Розовый official image
+3,iPhone 16,iphone-16,Чёрный,assets/img/products/iphone-16-chernyy.jpg,assets/img/products/iphone-16-chernyy.webp,iPhone 16 Чёрный official image
+4,iPhone 16 Plus,iphone-16-plus,Белый,assets/img/products/iphone-16-plus-belyy.jpg,assets/img/products/iphone-16-plus-belyy.webp,iPhone 16 Plus Белый official image
+4,iPhone 16 Plus,iphone-16-plus,Чёрный,assets/img/products/iphone-16-plus-chernyy.jpg,assets/img/products/iphone-16-plus-chernyy.webp,iPhone 16 Plus Чёрный official image
+5,iPhone 15,iphone-15,Голубой,assets/img/products/iphone-15-goluboy.jpg,assets/img/products/iphone-15-goluboy.webp,iPhone 15 Голубой official image
+5,iPhone 15,iphone-15,Чёрный,assets/img/products/iphone-15-chernyy.jpg,assets/img/products/iphone-15-chernyy.webp,iPhone 15 Чёрный official image
+5,iPhone 15,iphone-15,Розовый,assets/img/products/iphone-15-rozovyy.jpg,assets/img/products/iphone-15-rozovyy.webp,iPhone 15 Розовый official image
+6,"MacBook Air 13"" M3",macbook-air-13-m3,Тёмная ночь,assets/img/products/macbook-air-13-m3-temnaya-noch.jpg,assets/img/products/macbook-air-13-m3-temnaya-noch.webp,"MacBook Air 13"" M3 Тёмная ночь official image"
+6,"MacBook Air 13"" M3",macbook-air-13-m3,Сияющая звезда,assets/img/products/macbook-air-13-m3-siyayuschaya-zvezda.jpg,assets/img/products/macbook-air-13-m3-siyayuschaya-zvezda.webp,"MacBook Air 13"" M3 Сияющая звезда official image"
+6,"MacBook Air 13"" M3",macbook-air-13-m3,Синий,assets/img/products/macbook-air-13-m3-siniy.jpg,assets/img/products/macbook-air-13-m3-siniy.webp,"MacBook Air 13"" M3 Синий official image"
+7,"MacBook Air 15"" M3",macbook-air-15-m3,Сияющая звезда,assets/img/products/macbook-air-15-m3-siyayuschaya-zvezda.jpg,assets/img/products/macbook-air-15-m3-siyayuschaya-zvezda.webp,"MacBook Air 15"" M3 Сияющая звезда official image"
+7,"MacBook Air 15"" M3",macbook-air-15-m3,Тёмная ночь,assets/img/products/macbook-air-15-m3-temnaya-noch.jpg,assets/img/products/macbook-air-15-m3-temnaya-noch.webp,"MacBook Air 15"" M3 Тёмная ночь official image"
+8,"MacBook Pro 14"" M4",macbook-pro-14-m4,Space Black,assets/img/products/macbook-pro-14-m4-space-black.jpg,assets/img/products/macbook-pro-14-m4-space-black.webp,"MacBook Pro 14"" M4 Space Black official image"
+8,"MacBook Pro 14"" M4",macbook-pro-14-m4,Silver,assets/img/products/macbook-pro-14-m4-silver.jpg,assets/img/products/macbook-pro-14-m4-silver.webp,"MacBook Pro 14"" M4 Silver official image"
+9,"MacBook Pro 16"" M4 Pro",macbook-pro-16-m4-pro,Space Black,assets/img/products/macbook-pro-16-m4-pro-space-black.jpg,assets/img/products/macbook-pro-16-m4-pro-space-black.webp,"MacBook Pro 16"" M4 Pro Space Black official image"
+10,"iMac 24"" M4",imac-24-m4,Синий,assets/img/products/imac-24-m4-siniy.jpg,assets/img/products/imac-24-m4-siniy.webp,"iMac 24"" M4 Синий official image"
+10,"iMac 24"" M4",imac-24-m4,Зелёный,assets/img/products/imac-24-m4-zelenyy.jpg,assets/img/products/imac-24-m4-zelenyy.webp,"iMac 24"" M4 Зелёный official image"
+10,"iMac 24"" M4",imac-24-m4,Розовый,assets/img/products/imac-24-m4-rozovyy.jpg,assets/img/products/imac-24-m4-rozovyy.webp,"iMac 24"" M4 Розовый official image"
+10,"iMac 24"" M4",imac-24-m4,Серебристый,assets/img/products/imac-24-m4-serebristyy.jpg,assets/img/products/imac-24-m4-serebristyy.webp,"iMac 24"" M4 Серебристый official image"
+11,Mac mini M4,mac-mini-m4,Silver,assets/img/products/mac-mini-m4-silver.jpg,assets/img/products/mac-mini-m4-silver.webp,Mac mini M4 Silver official image
+12,"iPad Pro 11"" M4",ipad-pro-11-m4,Space Black,assets/img/products/ipad-pro-11-m4-space-black.jpg,assets/img/products/ipad-pro-11-m4-space-black.webp,"iPad Pro 11"" M4 Space Black official image"
+12,"iPad Pro 11"" M4",ipad-pro-11-m4,Silver,assets/img/products/ipad-pro-11-m4-silver.jpg,assets/img/products/ipad-pro-11-m4-silver.webp,"iPad Pro 11"" M4 Silver official image"
+13,"iPad Pro 13"" M4",ipad-pro-13-m4,Space Black,assets/img/products/ipad-pro-13-m4-space-black.jpg,assets/img/products/ipad-pro-13-m4-space-black.webp,"iPad Pro 13"" M4 Space Black official image"
+14,"iPad Air 11"" M2",ipad-air-11-m2,Синий,assets/img/products/ipad-air-11-m2-siniy.jpg,assets/img/products/ipad-air-11-m2-siniy.webp,"iPad Air 11"" M2 Синий official image"
+14,"iPad Air 11"" M2",ipad-air-11-m2,Фиолетовый,assets/img/products/ipad-air-11-m2-fioletovyy.jpg,assets/img/products/ipad-air-11-m2-fioletovyy.webp,"iPad Air 11"" M2 Фиолетовый official image"
+14,"iPad Air 11"" M2",ipad-air-11-m2,Сияющая звезда,assets/img/products/ipad-air-11-m2-siyayuschaya-zvezda.jpg,assets/img/products/ipad-air-11-m2-siyayuschaya-zvezda.webp,"iPad Air 11"" M2 Сияющая звезда official image"
+15,"iPad 10,9""",ipad-10-9-,Синий,assets/img/products/ipad-10-9--siniy.jpg,assets/img/products/ipad-10-9--siniy.webp,"iPad 10,9"" Синий official image"
+15,"iPad 10,9""",ipad-10-9-,Розовый,assets/img/products/ipad-10-9--rozovyy.jpg,assets/img/products/ipad-10-9--rozovyy.webp,"iPad 10,9"" Розовый official image"
+15,"iPad 10,9""",ipad-10-9-,Серебристый,assets/img/products/ipad-10-9--serebristyy.jpg,assets/img/products/ipad-10-9--serebristyy.webp,"iPad 10,9"" Серебристый official image"
+16,"iPad mini 8,3""",ipad-mini-8-3-,Фиолетовый,assets/img/products/ipad-mini-8-3--fioletovyy.jpg,assets/img/products/ipad-mini-8-3--fioletovyy.webp,"iPad mini 8,3"" Фиолетовый official image"
+16,"iPad mini 8,3""",ipad-mini-8-3-,Сияющая звезда,assets/img/products/ipad-mini-8-3--siyayuschaya-zvezda.jpg,assets/img/products/ipad-mini-8-3--siyayuschaya-zvezda.webp,"iPad mini 8,3"" Сияющая звезда official image"
+17,Apple Watch Ultra 2,apple-watch-ultra-2,Натуральный,assets/img/products/apple-watch-ultra-2-naturalnyy.jpg,assets/img/products/apple-watch-ultra-2-naturalnyy.webp,Apple Watch Ultra 2 Натуральный official image
+17,Apple Watch Ultra 2,apple-watch-ultra-2,Чёрный,assets/img/products/apple-watch-ultra-2-chernyy.jpg,assets/img/products/apple-watch-ultra-2-chernyy.webp,Apple Watch Ultra 2 Чёрный official image
+18,Apple Watch Series 10,apple-watch-series-10,Jet Black,assets/img/products/apple-watch-series-10-jet-black.jpg,assets/img/products/apple-watch-series-10-jet-black.webp,Apple Watch Series 10 Jet Black official image
+18,Apple Watch Series 10,apple-watch-series-10,Rose Gold,assets/img/products/apple-watch-series-10-rose-gold.jpg,assets/img/products/apple-watch-series-10-rose-gold.webp,Apple Watch Series 10 Rose Gold official image
+18,Apple Watch Series 10,apple-watch-series-10,Silver,assets/img/products/apple-watch-series-10-silver.jpg,assets/img/products/apple-watch-series-10-silver.webp,Apple Watch Series 10 Silver official image
+19,Apple Watch SE,apple-watch-se,Midnight,assets/img/products/apple-watch-se-midnight.jpg,assets/img/products/apple-watch-se-midnight.webp,Apple Watch SE Midnight official image
+19,Apple Watch SE,apple-watch-se,Starlight,assets/img/products/apple-watch-se-starlight.jpg,assets/img/products/apple-watch-se-starlight.webp,Apple Watch SE Starlight official image
+20,AirPods Pro 2,airpods-pro-2,Белый,assets/img/products/airpods-pro-2-belyy.jpg,assets/img/products/airpods-pro-2-belyy.webp,AirPods Pro 2 Белый official image
+21,AirPods 4,airpods-4,Белый,assets/img/products/airpods-4-belyy.jpg,assets/img/products/airpods-4-belyy.webp,AirPods 4 Белый official image
+22,AirPods Max,airpods-max,Midnight,assets/img/products/airpods-max-midnight.jpg,assets/img/products/airpods-max-midnight.webp,AirPods Max Midnight official image
+22,AirPods Max,airpods-max,Blue,assets/img/products/airpods-max-blue.jpg,assets/img/products/airpods-max-blue.webp,AirPods Max Blue official image
+22,AirPods Max,airpods-max,Orange,assets/img/products/airpods-max-orange.jpg,assets/img/products/airpods-max-orange.webp,AirPods Max Orange official image
+23,MagSafe Charger,magsafe-charger,Белый,assets/img/products/magsafe-charger-belyy.jpg,assets/img/products/magsafe-charger-belyy.webp,MagSafe Charger Белый official image
+24,Magic Keyboard для iPad Pro,magic-keyboard-ipad-pro,Чёрный,assets/img/products/magic-keyboard-ipad-pro-chernyy.jpg,assets/img/products/magic-keyboard-ipad-pro-chernyy.webp,Magic Keyboard для iPad Pro Чёрный official image
+24,Magic Keyboard для iPad Pro,magic-keyboard-ipad-pro,Белый,assets/img/products/magic-keyboard-ipad-pro-belyy.jpg,assets/img/products/magic-keyboard-ipad-pro-belyy.webp,Magic Keyboard для iPad Pro Белый official image
+25,Apple Pencil Pro,apple-pencil-pro,Белый,assets/img/products/apple-pencil-pro-belyy.jpg,assets/img/products/apple-pencil-pro-belyy.webp,Apple Pencil Pro Белый official image
+26,Studio Display,studio-display,Silver,assets/img/products/studio-display-silver.jpg,assets/img/products/studio-display-silver.webp,Studio Display Silver official image
+27,iPhone 15 Plus,iphone-15-plus,Голубой,assets/img/products/iphone-15-plus-goluboy.jpg,assets/img/products/iphone-15-plus-goluboy.webp,iPhone 15 Plus Голубой official image
+27,iPhone 15 Plus,iphone-15-plus,Чёрный,assets/img/products/iphone-15-plus-chernyy.jpg,assets/img/products/iphone-15-plus-chernyy.webp,iPhone 15 Plus Чёрный official image
+28,iPhone 15 Pro,iphone-15-pro,Натуральный титан,assets/img/products/iphone-15-pro-naturalnyy-titan.jpg,assets/img/products/iphone-15-pro-naturalnyy-titan.webp,iPhone 15 Pro Натуральный титан official image
+28,iPhone 15 Pro,iphone-15-pro,Синий титан,assets/img/products/iphone-15-pro-siniy-titan.jpg,assets/img/products/iphone-15-pro-siniy-titan.webp,iPhone 15 Pro Синий титан official image
+29,iPhone 15 Pro Max,iphone-15-pro-max,Чёрный титан,assets/img/products/iphone-15-pro-max-chernyy-titan.jpg,assets/img/products/iphone-15-pro-max-chernyy-titan.webp,iPhone 15 Pro Max Чёрный титан official image
+30,iPhone 14,iphone-14,Midnight,assets/img/products/iphone-14-midnight.jpg,assets/img/products/iphone-14-midnight.webp,iPhone 14 Midnight official image
+30,iPhone 14,iphone-14,Blue,assets/img/products/iphone-14-blue.jpg,assets/img/products/iphone-14-blue.webp,iPhone 14 Blue official image
+31,iPhone 14 Plus,iphone-14-plus,Purple,assets/img/products/iphone-14-plus-purple.jpg,assets/img/products/iphone-14-plus-purple.webp,iPhone 14 Plus Purple official image
+32,iPhone 14 Pro,iphone-14-pro,Space Black,assets/img/products/iphone-14-pro-space-black.jpg,assets/img/products/iphone-14-pro-space-black.webp,iPhone 14 Pro Space Black official image
+33,iPhone SE 3,iphone-se-3,Midnight,assets/img/products/iphone-se-3-midnight.jpg,assets/img/products/iphone-se-3-midnight.webp,iPhone SE 3 Midnight official image
+33,iPhone SE 3,iphone-se-3,Starlight,assets/img/products/iphone-se-3-starlight.jpg,assets/img/products/iphone-se-3-starlight.webp,iPhone SE 3 Starlight official image
+34,iPhone 13,iphone-13,Green,assets/img/products/iphone-13-green.jpg,assets/img/products/iphone-13-green.webp,iPhone 13 Green official image
+35,iPhone 13 mini,iphone-13-mini,Pink,assets/img/products/iphone-13-mini-pink.jpg,assets/img/products/iphone-13-mini-pink.webp,iPhone 13 mini Pink official image
+36,iPhone 12,iphone-12,Blue,assets/img/products/iphone-12-blue.jpg,assets/img/products/iphone-12-blue.webp,iPhone 12 Blue official image
+37,MacBook Air 13 M2,macbook-air-13-m2,Midnight,assets/img/products/macbook-air-13-m2-midnight.jpg,assets/img/products/macbook-air-13-m2-midnight.webp,MacBook Air 13 M2 Midnight official image
+38,MacBook Air 15 M2,macbook-air-15-m2,Starlight,assets/img/products/macbook-air-15-m2-starlight.jpg,assets/img/products/macbook-air-15-m2-starlight.webp,MacBook Air 15 M2 Starlight official image
+39,MacBook Pro 14 M3,macbook-pro-14-m3,Space Gray,assets/img/products/macbook-pro-14-m3-space-gray.jpg,assets/img/products/macbook-pro-14-m3-space-gray.webp,MacBook Pro 14 M3 Space Gray official image
+40,MacBook Pro 16 M3 Pro,macbook-pro-16-m3-pro,Space Black,assets/img/products/macbook-pro-16-m3-pro-space-black.jpg,assets/img/products/macbook-pro-16-m3-pro-space-black.webp,MacBook Pro 16 M3 Pro Space Black official image
+41,Mac mini M2,mac-mini-m2,Silver,assets/img/products/mac-mini-m2-silver.jpg,assets/img/products/mac-mini-m2-silver.webp,Mac mini M2 Silver official image
+42,Mac Studio M2 Max,mac-studio-m2-max,Silver,assets/img/products/mac-studio-m2-max-silver.jpg,assets/img/products/mac-studio-m2-max-silver.webp,Mac Studio M2 Max Silver official image
+43,iMac 24 M3,imac-24-m3,Green,assets/img/products/imac-24-m3-green.jpg,assets/img/products/imac-24-m3-green.webp,iMac 24 M3 Green official image
+44,MacBook Pro 13 M2,macbook-pro-13-m2,Space Gray,assets/img/products/macbook-pro-13-m2-space-gray.jpg,assets/img/products/macbook-pro-13-m2-space-gray.webp,MacBook Pro 13 M2 Space Gray official image
+45,iPad Air 13 M2,ipad-air-13-m2,Blue,assets/img/products/ipad-air-13-m2-blue.jpg,assets/img/products/ipad-air-13-m2-blue.webp,iPad Air 13 M2 Blue official image
+46,iPad Pro 12.9 M2,ipad-pro-12-9-m2,Space Gray,assets/img/products/ipad-pro-12-9-m2-space-gray.jpg,assets/img/products/ipad-pro-12-9-m2-space-gray.webp,iPad Pro 12.9 M2 Space Gray official image
+47,iPad 9th Gen,ipad-9th-gen,Silver,assets/img/products/ipad-9th-gen-silver.jpg,assets/img/products/ipad-9th-gen-silver.webp,iPad 9th Gen Silver official image
+48,iPad mini 6,ipad-mini-6,Purple,assets/img/products/ipad-mini-6-purple.jpg,assets/img/products/ipad-mini-6-purple.webp,iPad mini 6 Purple official image
+49,Apple Watch Series 9,apple-watch-series-9,Midnight,assets/img/products/apple-watch-series-9-midnight.jpg,assets/img/products/apple-watch-series-9-midnight.webp,Apple Watch Series 9 Midnight official image
+50,Apple Watch Ultra,apple-watch-ultra,Titanium,assets/img/products/apple-watch-ultra-titanium.jpg,assets/img/products/apple-watch-ultra-titanium.webp,Apple Watch Ultra Titanium official image
+51,Apple Watch Series 8,apple-watch-series-8,Starlight,assets/img/products/apple-watch-series-8-starlight.jpg,assets/img/products/apple-watch-series-8-starlight.webp,Apple Watch Series 8 Starlight official image
+52,AirPods 3,airpods-3,Белый,assets/img/products/airpods-3-belyy.jpg,assets/img/products/airpods-3-belyy.webp,AirPods 3 Белый official image
+53,AirPods 2,airpods-2,Белый,assets/img/products/airpods-2-belyy.jpg,assets/img/products/airpods-2-belyy.webp,AirPods 2 Белый official image
+54,Beats Studio Pro,beats-studio-pro,Black,assets/img/products/beats-studio-pro-black.jpg,assets/img/products/beats-studio-pro-black.webp,Beats Studio Pro Black official image
+55,MagSafe Battery Pack,magsafe-battery-pack,Белый,assets/img/products/magsafe-battery-pack-belyy.jpg,assets/img/products/magsafe-battery-pack-belyy.webp,MagSafe Battery Pack Белый official image
+56,Magic Mouse,magic-mouse,Белый,assets/img/products/magic-mouse-belyy.jpg,assets/img/products/magic-mouse-belyy.webp,Magic Mouse Белый official image
+57,Magic Trackpad,magic-trackpad,Белый,assets/img/products/magic-trackpad-belyy.jpg,assets/img/products/magic-trackpad-belyy.webp,Magic Trackpad Белый official image
+58,USB-C Power Adapter 20W,usb-c-power-adapter-20w,Белый,assets/img/products/usb-c-power-adapter-20w-belyy.jpg,assets/img/products/usb-c-power-adapter-20w-belyy.webp,USB-C Power Adapter 20W Белый official image
+59,Thunderbolt 4 Pro Cable,thunderbolt-4-pro-cable,Чёрный,assets/img/products/thunderbolt-4-pro-cable-chernyy.jpg,assets/img/products/thunderbolt-4-pro-cable-chernyy.webp,Thunderbolt 4 Pro Cable Чёрный official image
+60,iPhone 16 Silicone Case,iphone-16-silicone-case,Ultramarine,assets/img/products/iphone-16-silicone-case-ultramarine.jpg,assets/img/products/iphone-16-silicone-case-ultramarine.webp,iPhone 16 Silicone Case Ultramarine official image
+60,iPhone 16 Silicone Case,iphone-16-silicone-case,Black,assets/img/products/iphone-16-silicone-case-black.jpg,assets/img/products/iphone-16-silicone-case-black.webp,iPhone 16 Silicone Case Black official image
